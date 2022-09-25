@@ -12,5 +12,5 @@ while True:
             print(" high tempertaure: "+str(temp)+"°F")
     else:
         print("low temperature: "+str(temp)+"°F")
-            #time.sleep(5)
+        time.sleep(5)
         
