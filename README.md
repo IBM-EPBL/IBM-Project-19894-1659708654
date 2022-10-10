@@ -7,9 +7,13 @@ Skills Required:
    --Python,IOT Cloud Platform ,IBM Cloud,Node- RED,IBM IoT Platform,IBM Nodered,IBM Cloudant DB
 
 TEAM MEMBERS:
+
 1.GOWTHAM.S(TEAM LEADER)
+
 2.DHANUSH B T 
+
 3.HARSHITHA.T
+
 4.LOGANATH.M
 
 Project Description:
