@@ -1,12 +1,12 @@
 # IBM-Project-19894-1659708654
 
-# Smart Waste Management System For Metropolitan Cities
+# Smart Waste Management System For Metropolitan Cities 
 
 #### CATEGORY: 
    --Internet Of Things
 
 
-#### SKILLS REQUIRED:
+#### :+1:SKILLS REQUIRED:
    --Python,IOT Cloud Platform ,IBM Cloud,Node- RED,IBM IoT Platform,IBM Nodered,IBM Cloudant DB  
    
    
