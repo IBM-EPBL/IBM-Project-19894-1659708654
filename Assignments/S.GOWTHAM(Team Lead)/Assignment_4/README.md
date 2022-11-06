@@ -1,6 +1,7 @@
-#Smart Waste Management System For Metropolitan Cities
+# Smart Waste Management System For Metropolitan Cities
 
-##ASSIGNMENT_4
+### ASSIGNMENT_4
 
-WOKWI LINK BELOW:
-[(https://wokwi.com/projects/347573264319513172)]
+CLICK THE BELOW LINK TO VIEW THE ASSIGNMENT
+
+[WOKWI LINK](https://wokwi.com/projects/347573264319513172)
