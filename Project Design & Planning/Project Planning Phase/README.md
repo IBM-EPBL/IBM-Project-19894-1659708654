@@ -1,6 +1,6 @@
 # JIRA SOFTWARE LINK
 
-## Jira roadmap
+## Jira Roadmap
 [Click here to view Jira Roadmap](https://pt27888.atlassian.net/jira/software/projects/SMAR/boards/3/roadmap)
 
 ## Jira Burndown chart
