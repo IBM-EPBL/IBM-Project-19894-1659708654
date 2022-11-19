@@ -1,14 +1,19 @@
 # IBM-Project-19894-1659708654
 
-# Smart Waste Management System For Metropolitan Cities 
+</br>
+
+## Smart Waste Management System For Metropolitan Cities 
 
 #### CATEGORY: 
    --Internet Of Things
+   
+   </br>
 
 
 #### :+1:SKILLS REQUIRED:
    --Python,IOT Cloud Platform ,IBM Cloud,Node- RED,IBM IoT Platform,IBM Nodered,IBM Cloudant DB  
    
+   </br>
    
 
 #### TEAM MEMBERS:
@@ -21,6 +26,7 @@
 
 4.LOGANATH.M
 
+</br>
 
 
 #### PROJECT DESCRIPTION: 
@@ -34,5 +40,6 @@
 -Garbage level of the bins can be monitored through a web App.
 
 -We can view the location of every bin in the web application by sending GPS location from the device.
+
 
 
